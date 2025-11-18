@@ -1,0 +1,68 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Production builds
+/web-dashboard/build
+/web-dashboard/.env.local
+/web-dashboard/.env.production.local
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Database & Data
+/backend/data/
+*.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# PM2
+.pm2/
+ecosystem.config.js.backup
+
+# Deployment artifacts
+deploy-package/
+*.tar.gz
+biovault-deploy.tar.gz
+
+# OS files
+.DS_Store
+Thumbs.db
+*~
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Mobile app
+/mobile-app/node_modules/
+/mobile-app/.expo/
+/mobile-app/.expo-shared/
+
+# Browser extension (packed)
+*.crx
+*.pem
+
+# Backup files
+*-backup-*
+*.bak

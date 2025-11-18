@@ -1,0 +1,80 @@
+Uncaught runtime errors:
+×
+ERROR
+passwords.map is not a function
+TypeError: passwords.map is not a function
+    at getStats (http://localhost:3000/static/js/bundle.js:42912:46)
+    at Dashboard (http://localhost:3000/static/js/bundle.js:42925:17)
+    at renderWithHooks (http://localhost:3000/static/js/bundle.js:21953:22)
+    at updateFunctionComponent (http://localhost:3000/static/js/bundle.js:25521:24)
+    at beginWork (http://localhost:3000/static/js/bundle.js:27240:20)
+    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:12209:18)
+    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:12253:20)
+    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:12310:35)
+    at beginWork$1 (http://localhost:3000/static/js/bundle.js:32209:11)
+    at performUnitOfWork (http://localhost:3000/static/js/bundle.js:31457:16)
+ERROR
+passwords.map is not a function
+TypeError: passwords.map is not a function
+    at getStats (http://localhost:3000/static/js/bundle.js:42912:46)
+    at Dashboard (http://localhost:3000/static/js/bundle.js:42925:17)
+    at renderWithHooks (http://localhost:3000/static/js/bundle.js:21953:22)
+    at updateFunctionComponent (http://localhost:3000/static/js/bundle.js:25521:24)
+    at beginWork (http://localhost:3000/static/js/bundle.js:27240:20)
+    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:12209:18)
+    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:12253:20)
+    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:12310:35)
+    at beginWork$1 (http://localhost:3000/static/js/bundle.js:32209:11)
+    at performUnitOfWork (http://localhost:3000/static/js/bundle.js:31457:16)
+ERROR
+passwords.map is not a function
+TypeError: passwords.map is not a function
+    at getStats (http://localhost:3000/static/js/bundle.js:42912:46)
+    at Dashboard (http://localhost:3000/static/js/bundle.js:42925:17)
+    at renderWithHooks (http://localhost:3000/static/js/bundle.js:21953:22)
+    at updateFunctionComponent (http://localhost:3000/static/js/bundle.js:25521:24)
+    at beginWork (http://localhost:3000/static/js/bundle.js:27240:20)
+    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:12209:18)
+    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:12253:20)
+    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:12310:35)
+    at beginWork$1 (http://localhost:3000/static/js/bundle.js:32209:11)
+    at performUnitOfWork (http://localhost:3000/static/js/bundle.js:31457:16)
+ERROR
+passwords.map is not a function
+TypeError: passwords.map is not a function
+    at getStats (http://localhost:3000/static/js/bundle.js:42912:46)
+    at Dashboard (http://localhost:3000/static/js/bundle.js:42925:17)
+    at renderWithHooks (http://localhost:3000/static/js/bundle.js:21953:22)
+    at updateFunctionComponent (http://localhost:3000/static/js/bundle.js:25521:24)
+    at beginWork (http://localhost:3000/static/js/bundle.js:27240:20)
+    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:12209:18)
+    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:12253:20)
+    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:12310:35)
+    at beginWork$1 (http://localhost:3000/static/js/bundle.js:32209:11)
+    at performUnitOfWork (http://localhost:3000/static/js/bundle.js:31457:16)
+ERROR
+passwords.map is not a function
+TypeError: passwords.map is not a function
+    at getStats (http://localhost:3000/static/js/bundle.js:42912:46)
+    at Dashboard (http://localhost:3000/static/js/bundle.js:42925:17)
+    at renderWithHooks (http://localhost:3000/static/js/bundle.js:21953:22)
+    at updateFunctionComponent (http://localhost:3000/static/js/bundle.js:25521:24)
+    at beginWork (http://localhost:3000/static/js/bundle.js:27240:20)
+    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:12209:18)
+    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:12253:20)
+    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:12310:35)
+    at beginWork$1 (http://localhost:3000/static/js/bundle.js:32209:11)
+    at performUnitOfWork (http://localhost:3000/static/js/bundle.js:31457:16)
+ERROR
+passwords.map is not a function
+TypeError: passwords.map is not a function
+    at getStats (http://localhost:3000/static/js/bundle.js:42912:46)
+    at Dashboard (http://localhost:3000/static/js/bundle.js:42925:17)
+    at renderWithHooks (http://localhost:3000/static/js/bundle.js:21953:22)
+    at updateFunctionComponent (http://localhost:3000/static/js/bundle.js:25521:24)
+    at beginWork (http://localhost:3000/static/js/bundle.js:27240:20)
+    at beginWork$1 (http://localhost:3000/static/js/bundle.js:32187:18)
+    at performUnitOfWork (http://localhost:3000/static/js/bundle.js:31457:16)
+    at workLoopSync (http://localhost:3000/static/js/bundle.js:31380:9)
+    at renderRootSync (http://localhost:3000/static/js/bundle.js:31353:11)
+    at recoverFromConcurrentError (http://localhost:3000/static/js/bundle.js:30845:24)
